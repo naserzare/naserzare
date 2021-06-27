@@ -26,40 +26,6 @@
     </a>
   </p>
 
-<!--   <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-  </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/docs/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p> -->
-<!-- <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!
- -->
-
 <p>
 <a href="https://ecorex.ir">
 <img src="https://ecorex.ir/storage/app/media/logo-ss.png" alt="Give india logo" width="200" />
@@ -87,13 +53,15 @@ Your small help goes a long way. :heart:
 
 # GitHub Stats Card
 ### Github Streaks
-<img src="https://github-readme-stats.vercel.app/api?username=naserzare&show_icons=true&theme=dark" width="48%" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naserzare&theme=dark" width="48%" >
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=naserzare&repo=naserzare&theme=dark" width="48%" >
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=dark" width="48%" >
+<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=naserzare&layout=compact&theme=dark" width="48%"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/pin/?username=naserzare&repo=naserzare&theme=dark" width="48%"></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=naserzare&show_icons=true&theme=dark" width="48%"></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=naserzare&theme=dark" width="48%"></a>
 
 
-## Deploy on your own Vercel instance
+
+
+<!-- ## Deploy on your own Vercel instance
 
 #### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
@@ -145,3 +113,4 @@ Thanks! :heart:
 Contributions are welcome! <3
 
 Made with :heart: and JavaScript.
+ -->

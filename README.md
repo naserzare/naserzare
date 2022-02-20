@@ -27,8 +27,8 @@
   </p>
 
 <p>
-<a href="https://ecorex.ir">
-<img src="https://ecorex.ir/storage/app/media/logo-ss.png" alt="Give india logo" width="200" />
+<a href="https://jorchinweb.com">
+<img src="https://jorchinweb.com/wp-content/uploads/2020/09/jorchinweb.logo2_.png" alt="Give india logo" width="200" />
 </a>
 
 Are you considering to support the project by donating to me? Please DON'T!!  
